@@ -1,4 +1,4 @@
-# I'm Kasidit Srisaardrak
+# Kasidit Srisaardrak
 I'm Mike ,27 year olds.
 
 My projects during learn about data science, data analyst and etc
