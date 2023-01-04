@@ -1,6 +1,7 @@
 # I'm Kasidit Srisaardrak
-I'm 27 year olds, nickname Mike
-These my projects during learn about data science, data analyst and etc
+I'm Mike ,27 year olds.
+
+My projects during learn about data science, data analyst and etc
 
 ## Kasidit's Project
 1. Spreadsheets
