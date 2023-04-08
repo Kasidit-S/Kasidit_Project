@@ -10,7 +10,7 @@ My projects during learn about data science, data analyst and etc
 
 2. Databases SQL
   - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
-  - Data Analyst [SQL](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb)
+  - Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb) [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 
 3. Programming
   - R 
