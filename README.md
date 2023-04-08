@@ -1,5 +1,5 @@
 # Kasidit Srisaardrak
-I'm Mike ,27 year olds.
+I interested in data analytics, data engineer
 
 My projects during learn about data science, data analyst and etc
 
@@ -10,6 +10,7 @@ My projects during learn about data science, data analyst and etc
 
 2. Databases SQL
   - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
+  -
 
 3. Programming
   - R 
