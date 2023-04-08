@@ -10,12 +10,12 @@ My projects during learn about data science, data analyst and etc
 
 2. Databases SQL
   - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
-  - Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb) [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
+  - Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 
 3. Programming
   - R 
     - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Web%20scraping%20with%20R.ipynb)
-    - Data Analyst [R Data Analyst1](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/4CKyipdl9tJ5sGLPYoXQYA/), [R Data Analyst2](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/SHhHwgsL1Ygih2WqRrsCPP/)
+    - Data Analyst [R Data Analyst1](https://github.com/Kasdit/Kasidit_Project/blob/main/Covid19%20with%20R.ipynb), [R Data (Analyst2]https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by R](https://replit.com/@kasiditsrisaard/rock-paper-scissors-game#main.r)
   - Python
     - Web scraping [Python scraping](https://github.com/FireFonZ/Kasidit_Project/blob/main/Python/Web%20Scraping.pyt)
