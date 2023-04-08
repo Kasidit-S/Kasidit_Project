@@ -14,7 +14,7 @@ My projects during learn about data science, data analyst and etc
 
 3. Programming
   - R 
-    - Web scraping [R scraping](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/iqLxf6FobxS7OsbH6Ovwrg/)
+    - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Web%20scraping%20with%20R.ipynb)
     - Data Analyst [R Data Analyst1](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/4CKyipdl9tJ5sGLPYoXQYA/), [R Data Analyst2](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/SHhHwgsL1Ygih2WqRrsCPP/)
     - Rock Paper Scissors [Rock Paper Scissors by R](https://replit.com/@kasiditsrisaard/rock-paper-scissors-game#main.r)
   - Python
