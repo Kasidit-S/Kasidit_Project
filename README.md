@@ -19,7 +19,7 @@ My projects during learn about data science, data analyst and etc
     - Rock Paper Scissors [Rock Paper Scissors by R](https://replit.com/@kasiditsrisaard/rock-paper-scissors-game#main.r)
   - Python
     - Web scraping [Python scraping](https://github.com/FireFonZ/Kasidit_Project/blob/main/Python/Web%20Scraping.pyt)
-    - Data Analyst [Python Data Analyst](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/IOxgeEh7nYWL2Hy99kj4L3/)
+    - Data Analyst [Python Data Analyst](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC13%20with%20Python%20.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by Python](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/7MNdlcLUvShAJK9Pvdv5KA/)
 4. Statistics 
   - AB Test by Google sheet [AB by Google sheet](https://docs.google.com/spreadsheets/d/1XtiQCjZ0eX3nYUHNUE3Qg3EqUhdiWu6j-fxF4gu-GY4/edit?usp=sharing)
