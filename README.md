@@ -15,7 +15,7 @@ My projects during learn about data science, data analyst and etc
 3. Programming
   - R 
     - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Web%20scraping%20with%20R.ipynb)
-    - Data Analyst [R Data Analyst1](https://github.com/Kasdit/Kasidit_Project/blob/main/Covid19%20with%20R.ipynb), [R Data Analyst2][https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
+    - Data Analyst [R Data Analyst1](https://github.com/Kasdit/Kasidit_Project/blob/main/Covid19%20with%20R.ipynb), [R Data Analyst2](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by R](https://replit.com/@kasiditsrisaard/rock-paper-scissors-game#main.r)
   - Python
     - Web scraping [Python scraping](https://github.com/FireFonZ/Kasidit_Project/blob/main/Python/Web%20Scraping.pyt)
