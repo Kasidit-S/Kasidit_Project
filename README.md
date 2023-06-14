@@ -1,12 +1,11 @@
 # Kasidit Srisaardrak
-I interested in data analytics, data engineer
+I interested in data analytics
 
 My projects during learn about data science, data analyst and etc
 
 ## Kasidit's Project
 1. Spreadsheets
   - Pivot table by Google sheet [Pivot table](https://docs.google.com/spreadsheets/d/1V6kkMmL-uy1j0W4HX2juQ4EKSi3G984F_Sjo_TdoSLc/edit?usp=sharing)
-  - Simple dashboard by Google sheet [Simple dashboard](https://docs.google.com/spreadsheets/d/19JqyZ1atElPFCIJ_JJvbB4a5bvJiiWIxEKtLubHfexU/edit?usp=sharing)
 
 2. Databases SQL
   - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
@@ -31,5 +30,5 @@ My projects during learn about data science, data analyst and etc
 
 6.Dashboard
   - Google Data Studio [Data studio](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1)
-  - Tableau [Tableau](https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - Tableau [Tableau]([https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/kasidit.srisaardrak))
   - Power BI [Power BI](https://github.com/FireFonZ/Kasidit_Project/blob/main/Power_BI.pdf)
