@@ -30,5 +30,5 @@ My projects during learn about data science, data analyst and etc
 
 6.Dashboard
   - Google Data Studio [Data studio](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1)
-  - Tableau [Tableau]([https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/kasidit.srisaardrak))
+  - Tableau [Tableau](https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/kasidit.srisaardrak))
   - Power BI [Power BI](https://github.com/FireFonZ/Kasidit_Project/blob/main/Power_BI.pdf)
