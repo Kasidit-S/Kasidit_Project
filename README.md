@@ -1,5 +1,5 @@
 # Kasidit Srisaardrak
-I interested in data analytics
+Entry-level data analyst seeking a full-time role in data analysis, including managing data retrieval; organizing data; interpreting data in different ways to fit the problem; and creating data visualizations, dashboards, and other tools to provide stakeholder-ready insights. To pursue a successful data career with passion and hard work. I was an engineer and now I am interested in data, data is everything, everywhere, and everyone.
 
 My projects during learn about data science, data analyst and etc
 
