@@ -1,15 +1,20 @@
 # Kasidit Srisaardrak
 Entry-level data analyst seeking a full-time role in data analysis, including managing data retrieval; organizing data; interpreting data in different ways to fit the problem; and creating data visualizations, dashboards, and other tools to provide stakeholder-ready insights. To pursue a successful data career with passion and hard work. I was an engineer and now I am interested in data, data is everything, everywhere, and everyone.
 
-My projects during learn about data science, data analyst and etc
+My projects during learning about data science, data analysis and etc
 
 ## Kasidit's Project
 1. Spreadsheets
   - Pivot table by Google sheet [Pivot table](https://docs.google.com/spreadsheets/d/1V6kkMmL-uy1j0W4HX2juQ4EKSi3G984F_Sjo_TdoSLc/edit?usp=sharing)
 
 2. Databases SQL
-  - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
+  - Aggregate function [Agg Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/aggregate%20functions.ipynb), [Agg Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/aggregate%20functions.sql)
+  - Join tables & clean null [Join Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.ipynb), [Join Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.sql)
+  - Sub query [Sub Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Sub%20query.ipynb), [Sub Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.sql)
+  - Catalog data [Cat Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog%20data.ipynb), [Cat Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog.sql)
+  - Pivot table [Pivot Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.ipynb), [Pivot code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.sql)
   - Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
+  -  - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
 
 3. Programming
   - R 
@@ -28,7 +33,7 @@ My projects during learn about data science, data analyst and etc
   - Regression by R [R Regression](https://github.com/FireFonZ/Kasidit_Project/blob/main/R/Regression.R)
   - Classification by R [R Classification](https://github.com/FireFonZ/Kasidit_Project/blob/main/R/Classification.R)
 
-6.Dashboard
+6. Dashboard
   - Google Data Studio [Sale Report 2014-2017](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1), [Bike Shop Report
 ](https://lookerstudio.google.com/reporting/b8a1ccb4-c53b-4ef3-a974-d38f05a44c3d)
   - Tableau [Minnesota Traffic Volume Dashboard](https://public.tableau.com/views/MinnesotaTrafficVolumeDashboard_16866502351150/MinnesotaTrafficVolumeDashboard?:language=th-TH&:display_count=n&:origin=viz_share_link), [Google Fiber repeat call](https://public.tableau.com/views/GoogleFiberrepeatcall/RepeatCalls?:language=th-TH&:display_count=n&:origin=viz_share_link), [Sale report](https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=th-TH&:display_count=n&:origin=viz_share_link)
