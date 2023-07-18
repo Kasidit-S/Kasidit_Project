@@ -8,13 +8,13 @@ My projects during learning about data science, data analysis and etc
   - Pivot table by Google sheet [Pivot table](https://docs.google.com/spreadsheets/d/1V6kkMmL-uy1j0W4HX2juQ4EKSi3G984F_Sjo_TdoSLc/edit?usp=sharing)
 
 2. Databases SQL
-  - Aggregate function [Agg Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/aggregate%20functions.ipynb), [Agg Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/aggregate%20functions.sql)
-  - Join tables & clean null [Join Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.ipynb), [Join Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.sql)
-  - Sub query [Sub Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Sub%20query.ipynb), [Sub Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.sql)
-  - Catalog data [Cat Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog%20data.ipynb), [Cat Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog.sql)
-  - Pivot table [Pivot Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.ipynb), [Pivot code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.sql)
-  - Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
-  -  - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
+- Aggregate function [Agg Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/aggregate%20functions.ipynb), [Agg Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/aggregate%20functions.sql)
+- Join tables & clean null [Join Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.ipynb), [Join Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.sql)
+- Sub query [Sub Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Sub%20query.ipynb), [Sub Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Join%20table%20%26%20clean%20null.sql)
+- Catalog data [Cat Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog%20data.ipynb), [Cat Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog.sql)
+- Pivot table [Pivot Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.ipynb), [Pivot code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.sql)
+- Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
+- Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
 
 3. Programming
   - R 
