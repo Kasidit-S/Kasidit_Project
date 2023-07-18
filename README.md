@@ -31,5 +31,5 @@ My projects during learn about data science, data analyst and etc
 6.Dashboard
   - Google Data Studio [Sale Report 2014-2017](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1), [Bike Shop Report
 ](https://lookerstudio.google.com/reporting/b8a1ccb4-c53b-4ef3-a974-d38f05a44c3d)
-  - Tableau [Tableau](https://public.tableau.com/app/profile/kasidit.srisaardrak)
+  - Tableau [Minnesota Traffic Volume Dashboard](https://public.tableau.com/views/MinnesotaTrafficVolumeDashboard_16866502351150/MinnesotaTrafficVolumeDashboard?:language=th-TH&:display_count=n&:origin=viz_share_link), [Google Fiber repeat call](https://public.tableau.com/views/GoogleFiberrepeatcall/RepeatCalls?:language=th-TH&:display_count=n&:origin=viz_share_link), [Sale report](https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=th-TH&:display_count=n&:origin=viz_share_link)
   - Power BI [Power BI](https://github.com/FireFonZ/Kasidit_Project/blob/main/Power_BI.pdf)
