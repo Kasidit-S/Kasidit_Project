@@ -29,6 +29,7 @@ My projects during learn about data science, data analyst and etc
   - Classification by R [R Classification](https://github.com/FireFonZ/Kasidit_Project/blob/main/R/Classification.R)
 
 6.Dashboard
-  - Google Data Studio [Data studio](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1)
+  - Google Data Studio [Sale Report 2014-2017](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1), [Bike Shop Report
+](https://lookerstudio.google.com/reporting/b8a1ccb4-c53b-4ef3-a974-d38f05a44c3d)
   - Tableau [Tableau](https://public.tableau.com/app/profile/kasidit.srisaardrak)
   - Power BI [Power BI](https://github.com/FireFonZ/Kasidit_Project/blob/main/Power_BI.pdf)
