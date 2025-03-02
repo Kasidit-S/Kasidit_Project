@@ -19,12 +19,12 @@ My projects during learning about data science, data analysis, etc
 
 3. Programming
   - R 
-    - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Web%20scraping%20with%20R.ipynb)
-    - Data Analyst [R Data Analyst1](https://github.com/Kasdit/Kasidit_Project/blob/main/Covid19%20with%20R.ipynb), [R Data Analyst2](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
+    - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/Web%20scraping%20with%20R.ipynb)
+    - Data Analyst [R Data Analyst1](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/Covid19%20with%20R.ipynb), [R Data Analyst2](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by R](https://replit.com/@kasiditsrisaard/rock-paper-scissors-game#main.r)
   - Python
     - Web scraping [Python scraping](https://github.com/FireFonZ/Kasidit_Project/blob/main/Python/Web%20Scraping.pyt)
-    - Data Analyst [Python Data Analyst](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC13%20with%20Python%20.ipynb)
+    - Data Analyst [Python Data Analyst](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/NYC13%20with%20Python%20.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by Python](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/7MNdlcLUvShAJK9Pvdv5KA/)
     - Lead by area within Store [Lead by area within Store](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Python/Lead%20by%20area%20within%20Store%20githun.ipynb)
 4. Statistics 
