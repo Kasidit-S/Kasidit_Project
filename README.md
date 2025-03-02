@@ -1,5 +1,6 @@
 # Kasidit Srisaardrak
-Entry-level data analyst seeking a full-time role in data analysis, including managing data retrieval; organizing data; interpreting data in different ways to fit the problem; and creating data visualizations, dashboards, and other tools to provide stakeholder-ready insights. To pursue a successful data career with passion and hard work. I was an engineer, and now I am interested in data, data is everything, everywhere, and everyone.
+Data is everything, everywhere, and everyone
+Enthusiastic and detail-oriented data analyst with a strong background in engineering, transitioning into a full-time role focused on data analysis. Proficient in managing data retrieval, organizing datasets, and employing diverse analytical methods to solve complex problems. Skilled in creating impactful data visualizations, dashboards, and tools that deliver actionable insights to stakeholders. Eager to contribute a blend of engineering precision and newfound data expertise to a dynamic team. Passionate about leveraging data to drive informed decision-making. Ready to embark on a fulfilling career in data analysis, bringing dedication and a problem-solving mindset to every project.
 
 My projects during learning about data science, data analysis, etc
 
