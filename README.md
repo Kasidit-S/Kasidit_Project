@@ -1,7 +1,7 @@
 # Kasidit Srisaardrak
-Entry-level data analyst seeking a full-time role in data analysis, including managing data retrieval; organizing data; interpreting data in different ways to fit the problem; and creating data visualizations, dashboards, and other tools to provide stakeholder-ready insights. To pursue a successful data career with passion and hard work. I was an engineer and now I am interested in data, data is everything, everywhere, and everyone.
+Entry-level data analyst seeking a full-time role in data analysis, including managing data retrieval; organizing data; interpreting data in different ways to fit the problem; and creating data visualizations, dashboards, and other tools to provide stakeholder-ready insights. To pursue a successful data career with passion and hard work. I was an engineer, and now I am interested in data, data is everything, everywhere, and everyone.
 
-My projects during learning about data science, data analysis and etc
+My projects during learning about data science, data analysis, etc
 
 ## Kasidit's Project
 1. Spreadsheets
@@ -38,4 +38,4 @@ My projects during learning about data science, data analysis and etc
   - Google Data Studio [Sale Report 2014-2017](https://datastudio.google.com/reporting/ce436bd8-e9de-412b-b2e4-f860c83839b1), [Bike Shop Report
 ](https://lookerstudio.google.com/reporting/b8a1ccb4-c53b-4ef3-a974-d38f05a44c3d)
   - Tableau [Minnesota Traffic Volume Dashboard](https://public.tableau.com/views/MinnesotaTrafficVolumeDashboard_16866502351150/MinnesotaTrafficVolumeDashboard?:language=th-TH&:display_count=n&:origin=viz_share_link), [Google Fiber repeat call](https://public.tableau.com/views/GoogleFiberrepeatcall/RepeatCalls?:language=th-TH&:display_count=n&:origin=viz_share_link), [Sale report](https://public.tableau.com/views/DashboardTableau_16727413022250/Dashboard1?:language=th-TH&:display_count=n&:origin=viz_share_link)
-  - Power BI [Power BI](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Power%20BI/Coupon%20Dashboard.pdf)
+  - Power BI [Coupon Dashboard](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Power%20BI/Coupon%20Dashboard.pdf), [Promotion Burn Point](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Power%20BI/Promotion%20Burn%20Point.pdf)
