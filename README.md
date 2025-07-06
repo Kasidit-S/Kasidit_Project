@@ -14,17 +14,17 @@ My projects during learning about data science, data analysis, etc
 - Sub query [Sub Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Sub%20query.ipynb), [Sub Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Sub%20query.sql)
 - Catalog data [Cat Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog%20data.ipynb), [Cat Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Catalog.sql)
 - Pivot table [Pivot Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.ipynb), [Pivot Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.sql)
-- Data Analyst [SQL1](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [SQL2](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
+- Data Analyst [international debt](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [YC Public School Test Result Scores](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
-
+- Project [Customer Segmentation](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Project/RFM%20Segmentation.ipynb)
 3. Programming
   - R 
     - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/Web%20scraping%20with%20R.ipynb)
-    - Data Analyst [R Data Analyst1](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/Covid19%20with%20R.ipynb), [R Data Analyst2](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
+    - Data Analyst [Covid19](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/Covid19%20with%20R.ipynb), [NYC flights13](https://github.com/Kasdit/Kasidit_Project/blob/main/NYC%20flights13%20with%20R.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by R](https://replit.com/@kasiditsrisaard/rock-paper-scissors-game#main.r)
   - Python
     - Web scraping [Python scraping](https://github.com/FireFonZ/Kasidit_Project/blob/main/Python/Web%20Scraping.pyt)
-    - Data Analyst [Python Data Analyst](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/NYC13%20with%20Python%20.ipynb)
+    - Data Analyst [NYC flights13](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/NYC13%20with%20Python%20.ipynb), [Monthly Persona](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Python/Monthly%20Persona%20github.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by Python](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/7MNdlcLUvShAJK9Pvdv5KA/)
     - Lead by area within Store [Lead by area within Store](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Python/Lead%20by%20area%20within%20Store%20githun.ipynb)
 4. Statistics 
