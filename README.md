@@ -27,7 +27,7 @@ My projects during learning about data science, data analysis, etc
     - Data Analyst [NYC flights13](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/NYC13%20with%20Python%20.ipynb), [Monthly Persona](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Python/Monthly%20Persona%20github.ipynb)
     - Rock Paper Scissors [Rock Paper Scissors by Python](https://datalore.jetbrains.com/notebook/doM9UCb9S5SvxDBXFDx2Hi/7MNdlcLUvShAJK9Pvdv5KA/)
     - Lead by area within Store [Lead by area within Store](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Python/Lead%20by%20area%20within%20Store%20githun.ipynb)
-    - Retention Rate [Retention Rate](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Project/Retention%20rate.ipynb)
+    - Project [Retention Rate](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Project/Retention%20rate.ipynb), [Customer segmentation](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Project/Customer%20Segmentation.ipynb)
 4. Statistics 
   - AB Test by Google sheet [AB by Google sheet](https://docs.google.com/spreadsheets/d/1XtiQCjZ0eX3nYUHNUE3Qg3EqUhdiWu6j-fxF4gu-GY4/edit?usp=sharing)
   - Linear Regression by R [Linear Regression by R](https://github.com/FireFonZ/Kasidit_Project/blob/main/R/Linear%20Regression.R)
