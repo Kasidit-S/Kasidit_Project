@@ -16,7 +16,7 @@ My projects during learning about data science, data analysis, etc
 - Pivot table [Pivot Notebook](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.ipynb), [Pivot Code](https://github.com/Kasidit-S/Kasidit_Project/blob/main/SQL/Pivot%20table.sql)
 - Data Analyst [international debt](https://github.com/Kasdit/Kasidit_Project/blob/main/International_debt_SQL.ipynb), [YC Public School Test Result Scores](https://github.com/Kasdit/Kasidit_Project/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 - Create database by SQL [SQL database](https://replit.com/@kasiditsrisaard/SQLrestaurantsdatabase#main.sql)
-- Project [Customer Segmentation](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Project/RFM%20Segmentation.ipynb)
+- Project [Customer Segmentation RFM](https://github.com/Kasidit-S/Kasidit_Project/blob/main/Project/RFM%20Segmentation.ipynb)
 3. Programming
   - R 
     - Web scraping [R scraping](https://github.com/Kasdit/Kasidit_Project/blob/main/Project/Web%20scraping%20with%20R.ipynb)
